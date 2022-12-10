@@ -1,0 +1,1 @@
+# Classifying-the-visibility-of-ID-cards-in-photos-using-ComputerVision-and-CNN
